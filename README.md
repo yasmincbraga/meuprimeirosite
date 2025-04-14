@@ -11,7 +11,4 @@ https://yasmincbraga.github.io/meuprimeirosite/indexinline.html
 ## Índex interno
 https://yasmincbraga.github.io/meuprimeirosite/indexinterno.html
 
-## meu site videos novo
-https://github.com/yasmincbraga/meuprimeirosite/blob/main/siteAsele%C3%A7%C3%A3o/index.html
-
 Repositorio destinado ao aprendizado basico de html e css
